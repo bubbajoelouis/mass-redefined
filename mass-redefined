@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\title{Mass Redefined: A Recursive Balance Between Radiation and Gravitation}
+\author{The Unified Theory of Energy Framework}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Classical physics treats mass as a fundamental property of matter, often defined in terms of inertia and energy storage. However, under the Unified Theory of Energy (UTE), mass is not a fixed entity but a manifestation of the balance between Radiation and Gravitation. This paper redefines mass as an emergent property of recursive energy exchanges, where particles serve as intermediaries within the surface interactions of mass structures.
+
+\section{Redefining Mass as a Process}
+The classical equation for mass-energy equivalence,
+\begin{equation}
+    E = mc^2,
+\end{equation}
+assumes mass is an intrinsic property that stores energy. However, if mass is instead a localized equilibrium between Radiation and Gravitation, then energy should be expressed as:
+\begin{equation}
+    E = G \cdot R,
+\end{equation}
+where:
+\begin{itemize}
+    \item $G$ represents \textbf{Gravitation} (stored energy, potential energy),
+    \item $R$ represents \textbf{Radiation} (extended energy, kinetic energy, electromagnetic waves).
+\end{itemize}
+
+Thus, mass is not a fundamental quantity but rather the result of a stable exchange between these two energy states.
+
+\section{Implications of the Reformulation}
+\subsection{Mass as a Dynamic Process}
+Instead of being a property of objects, mass emerges from the balance of Gravitation and Radiation. A stable mass structure is simply a system in equilibrium where:
+\begin{equation}
+    G_{stored} \approx R_{extended}.
+\end{equation}
+If Radiation outpaces Gravitation, the structure sheds mass. If Gravitation dominates, mass accumulates and can eventually collapse.
+
+\subsection{Particles as Transitional Energy States}
+Particles are not fundamental building blocks but localized states of energy exchange within a system. They exist in the surface region where:
+\begin{equation}
+    G \leftrightarrow R.
+\end{equation}
+This redefines atomic and subatomic interactions as recursive surface interactions rather than discrete particle exchanges.
+
+\subsection{Inertia as Resistance to Radiation Expansion}
+Classical physics defines inertia as resistance to acceleration due to mass. However, in the recursive model:
+\begin{equation}
+    I = G \cdot M,
+\end{equation}
+where inertia ($I$) is simply the degree to which stored Gravitation resists external Radiation influences.
+
+\subsection{Black Holes as Overgravitated Mass Structures}
+A black hole is not a singularity but an extreme state of stored Gravitation, where:
+\begin{equation}
+    G_{stored} \gg R_{extended}.
+\end{equation}
+Its event horizon marks the threshold where Radiation can no longer escape due to excessive Gravitation storage, making it a limit case of mass accumulation.
+
+\section{Conclusion}
+Mass is not a standalone quantity but a result of the dynamic equilibrium between Radiation and Gravitation. Particles, inertia, and energy exchanges are surface interactions occurring within a recursive framework. This model dissolves the artificial separation between mass and energy, providing a unified perspective applicable across scales from atomic structures to cosmic bodies.
+
+\end{document}
